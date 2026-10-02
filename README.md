@@ -138,3 +138,15 @@ Try the deployed Website Defacement Detection System:
 - Integration with security monitoring platforms
 - Enhanced machine learning models for better detection
 - Automated website integrity verification
+  ## 👩‍💻 Project Information
+
+**Project Title:**  
+Design of a Real-Time Web Security Model for Detecting Website Defacement Attacks Using Hybrid Algorithm
+
+**Domain:** Cyber Security
+
+**Project Type:** Academic Project
+
+**Department:** Cyber Security
+
+**Academic Year:** 2025–2026

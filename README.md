@@ -129,3 +129,12 @@ The system is designed to identify unauthorized webpage modifications by combini
 Try the deployed Website Defacement Detection System:
 
 [Open Live Demo](https://shield-pulse-analyze.lovable.app)
+## 🔮 Future Scope
+
+- Integration with continuous real-time website monitoring
+- Automated security alerts and notifications
+- Improved detection of advanced defacement techniques
+- Cloud-based deployment and monitoring
+- Integration with security monitoring platforms
+- Enhanced machine learning models for better detection
+- Automated website integrity verification

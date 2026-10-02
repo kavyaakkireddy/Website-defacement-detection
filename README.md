@@ -63,3 +63,16 @@ The proposed hybrid approach achieved **99.8% accuracy** in detecting website de
 **Design of a Real-Time Web Security Model for Detecting Website Defacement Attacks Using Hybrid Algorithm**
 
 Developed as an academic cybersecurity project.
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### URL Scan System
+![URL Scan](screenshots/url-scan.png)
+
+### Scan Result
+![Scan Result](screenshots/scan-result.png)
+
+### Real-Time Monitoring
+![Monitoring](screenshots/monitoring.png)

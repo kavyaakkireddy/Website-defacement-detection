@@ -124,3 +124,8 @@ The system is designed to identify unauthorized webpage modifications by combini
 - Multiple detection techniques combined
 - Website content integrity verification
 - Reduced false alerts through hybrid analysis
+## 🌐 Live Demo
+
+Try the deployed Website Defacement Detection System:
+
+[Open Live Demo](https://shield-pulse-analyze.lovable.app)

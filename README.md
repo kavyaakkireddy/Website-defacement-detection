@@ -85,3 +85,21 @@ Developed as an academic cybersecurity project.
 - **Text Similarity Analysis** – Comparison of webpage content
 - **HTML/CSS/JavaScript** – Web interface and user interaction
 - **Lovable** – Application development and deployment
+## 🧠 Detection Methodology
+
+The system uses a hybrid approach that combines multiple detection techniques to identify unauthorized changes in website content.
+
+### 1. Random Forest
+Machine learning is used to analyze relevant webpage characteristics and classify whether the webpage may be affected by defacement.
+
+### 2. Pattern Matching
+The system checks webpage content against known suspicious patterns that may indicate malicious modifications.
+
+### 3. SHA-256 Integrity Verification
+SHA-256 hashing is used to generate a unique hash of webpage content. Changes in the content can be identified by comparing the current hash with the stored reference hash.
+
+### 4. Text Similarity Analysis
+The system compares webpage content to identify significant textual changes and helps reduce false alerts.
+
+### 5. Hybrid Detection
+The results from these techniques are combined to provide a more reliable website defacement detection mechanism.

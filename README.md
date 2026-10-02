@@ -76,3 +76,12 @@ Developed as an academic cybersecurity project.
 
 ### Real-Time Monitoring
 ![Monitoring](screenshots/monitoring.png)
+## 🛠️ Technologies Used
+
+- **Python** – Machine learning and detection logic
+- **Random Forest** – Classification of webpage characteristics
+- **Pattern Matching** – Detection of known suspicious content patterns
+- **SHA-256** – Content integrity verification
+- **Text Similarity Analysis** – Comparison of webpage content
+- **HTML/CSS/JavaScript** – Web interface and user interaction
+- **Lovable** – Application development and deployment

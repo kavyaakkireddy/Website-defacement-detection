@@ -103,3 +103,11 @@ The system compares webpage content to identify significant textual changes and 
 
 ### 5. Hybrid Detection
 The results from these techniques are combined to provide a more reliable website defacement detection mechanism.
+## 🔄 Project Workflow
+
+1. **Website Input** – Enter the website URL that needs to be analyzed.
+2. **Content Collection** – The system collects relevant webpage content and features.
+3. **Feature Analysis** – The collected data is analyzed using multiple detection techniques.
+4. **Hybrid Detection** – Random Forest, Pattern Matching, SHA-256 integrity verification, and Text Similarity Analysis work together.
+5. **Result Generation** – The system classifies the webpage and generates the detection result.
+6. **Monitoring & Alerting** – Suspicious changes can be monitored and security alerts can be generated.
